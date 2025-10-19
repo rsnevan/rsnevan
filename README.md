@@ -3,11 +3,11 @@
 <!-- Typing Animation for Name -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=48&duration=3000&pause=2000&color=8B9D83&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Nevan+Rahman" alt="Typing SVG" /></a>
 
-```
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+*Driven by Data, Fueled by Code.*  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    Driven by Data, Fueled by Code.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 <br>
 
