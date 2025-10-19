@@ -1,14 +1,9 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,23&height=180&section=header&fontSize=42&fontColor=fff&fontAlignY=32" width="100%"/>
-
-<br>
-
 <!-- Typing Animation for Name -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=2000&color=8B9D83&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=80&lines=Nevan+Rahman" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=42&duration=3000&pause=2000&color=8B9D83&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Nevan+Rahman" alt="Typing SVG" /></a>
 
-**Crafting digital experiences through elegant code and intentional design.**
+**Driven by Data, Fueled by Code.**
 
 <br>
 
@@ -71,23 +66,4 @@
 
 <br>
 
-```ascii
-╔══════════════════════════════════════════════════════════╗
-║  "Code is like humor. When you have to explain it,      ║
-║   it's bad."  – Cory House                              ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rsnevan&color=8B9D83&style=for-the-badge&label=Profile+Views" />
-</p>
-
-<br>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,23&height=120&section=footer" width="100%"/>
-
-</div>
+## 📬 Connect With Me
