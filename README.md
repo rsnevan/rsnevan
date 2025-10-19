@@ -1,7 +1,13 @@
-<!-- Typing Animation for Name -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=42&duration=3000&pause=2000&color=8B9D83&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Nevan+Rahman" alt="Typing SVG" /></a>
+<div align="center">
 
-**Driven by Data, Fueled by Code.**
+<!-- Typing Animation for Name -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=48&duration=3000&pause=2000&color=8B9D83&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Nevan+Rahman" alt="Typing SVG" /></a>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Driven by Data, Fueled by Code.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 <br>
 
@@ -32,9 +38,8 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,php,react,nodejs,aws,git,github,r&theme=light&perline=7" />
 
-<img src="https://img.shields.io/badge/SAS-1E40AF?style=flat-square&logo=sas&logoColor=white" />
-<img src="https://img.shields.io/badge/Convex-5F7161?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAxMkwxMiAyMkwyMiAxMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white" />
-
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=rsnevan&color=8B9D83&style=flat-square&label=Profile+Views" />
+
+</div>
