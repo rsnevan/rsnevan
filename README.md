@@ -1,45 +1,25 @@
 <div align="center">
 
-<!-- Typing Animation for Name -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=48&duration=3000&pause=2000&color=8B9D83&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Nevan+Rahman" alt="Typing SVG" /></a>
+<a href="https://rsnevan.vercel.app"><img src="assets/header.svg" width="100%" alt="Nevan Rahman: driven by data, fuelled by code." /></a>
 
-<br>
+<a href="https://rsnevan.vercel.app"><img src="https://img.shields.io/badge/Portfolio_%E2%86%97-c8f04a?style=for-the-badge&logo=googlechrome&logoColor=0a0a0b" alt="Portfolio" /></a> <a href="mailto:hi@rsnev.dev"><img src="https://img.shields.io/badge/Email-111113?style=for-the-badge&labelColor=111113&color=111113&logoColor=c8f04a&logo=minutemailer" alt="Email" /></a> <a href="https://linkedin.com/in/nevanrahman"><img src="https://img.shields.io/badge/LinkedIn-111113?style=for-the-badge&labelColor=111113&color=111113&logoColor=c8f04a&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2M4ZjA0YSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a> <a href="https://twitter.com/NevanRahman"><img src="https://img.shields.io/badge/X-111113?style=for-the-badge&labelColor=111113&color=111113&logoColor=c8f04a&logo=x" alt="X" /></a> <a href="https://instagram.com/nev.sami"><img src="https://img.shields.io/badge/Instagram-111113?style=for-the-badge&labelColor=111113&color=111113&logoColor=c8f04a&logo=instagram" alt="Instagram" /></a>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-*Driven by Data, Fueled by Code.*  
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br /><br />
 
-<br>
+<a href="https://rsnevan.vercel.app"><img src="assets/preview.gif" width="100%" alt="Scrolling through rsnevan.vercel.app" /></a>
 
-## 📊 GitHub Stats
+<sub><code>↑ click to open the live site</code></sub>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rsnevan&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1d1a&title_color=8B9D83&icon_color=A8B5A1&text_color=C9D1C9&border_radius=10" width="48%" />
+<br /><br />
 
-<br>
+<img src="assets/stats.svg" width="100%" alt="GitHub stats" />
 
-## 📬 Connect With Me
+<br /><br />
 
-<a href="mailto:rahman.nevan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-5F7161?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/nevanrahman">
-  <img src="https://img.shields.io/badge/LinkedIn-6D8B74?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/NevanRahman">
-  <img src="https://img.shields.io/badge/Twitter-8B9D83?style=flat-square&logo=twitter&logoColor=white" />
-</a>
-<a href="https://instagram.com/nev.sami">
-  <img src="https://img.shields.io/badge/Instagram-9CAF88?style=flat-square&logo=instagram&logoColor=white" />
-</a>
+<img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,nodejs,astro,kotlin,java,cpp,php,r,supabase,postgres,aws,git&theme=dark&perline=8" alt="Tech stack" />
 
-<br>
+<br /><br />
 
-## 💻 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,php,react,nodejs,aws,git,github,r&theme=light&perline=7" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=rsnevan&color=8B9D83&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=rsnevan&color=c8f04a&style=flat-square&label=views" alt="Profile views" />
 
 </div>

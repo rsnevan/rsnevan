@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, 'DM Mono', Consolas, Menlo, monospace; }
+    .sans { font-family: 'DM Sans', 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; }
+    .eyebrow { font-size: 11px; font-weight: 600; fill: #c8f04a; letter-spacing: 2.4px; }
+    .title { font-size: 46px; font-weight: 400; fill: #f0efe8; letter-spacing: -1px; }
+    .acc { fill: #c8f04a; }
+    .sub { font-size: 14px; fill: #7a7a82; }
+    .win-t { font-size: 11px; fill: #c8f04a; letter-spacing: 1.5px; font-weight: 600; }
+    .p { font-size: 12px; fill: #f0efe8; }
+    .k { font-size: 11.5px; fill: #7a7a82; }
+    .nm { font-size: 17px; fill: #c8f04a; }
+    .chip { font-size: 10.5px; fill: #7a7a82; }
+    .chip-on { font-size: 10.5px; fill: #c8f04a; }
+
+    .in { opacity: 0; animation: in .7s cubic-bezier(.2,.8,.2,1) forwards; }
+    @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    .d1 { animation-delay: .1s } .d2 { animation-delay: .25s } .d3 { animation-delay: .4s }
+    .d4 { animation-delay: .6s } .d5 { animation-delay: .9s } .d6 { animation-delay: 1.2s }
+    .d7 { animation-delay: 1.5s } .d8 { animation-delay: 1.8s }
+    .cursor { animation: blink 1.05s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .glow { animation: glow 3.2s ease-in-out infinite; }
+    @keyframes glow { 50% { opacity: .35; } }
+  </style>
+
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#16161a" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="fadeGrid" cx="75%" cy="45%" r="70%">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="m"><rect width="900" height="300" fill="url(#fadeGrid)"/></mask>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="10"/></filter>
+  </defs>
+
+  <rect x=".5" y=".5" width="899" height="299" rx="12" fill="#0a0a0b" stroke="#222226"/>
+  <rect x="1" y="1" width="898" height="298" rx="12" fill="url(#grid)" mask="url(#m)"/>
+
+  <!-- left: headline -->
+  <g class="in d1"><line x1="40" y1="58" x2="58" y2="58" stroke="#c8f04a"/><text x="68" y="62" class="mono eyebrow">NEVAN RAHMAN</text></g>
+  <text x="38" y="122" class="sans title in d2">Driven by <tspan class="acc">data,</tspan></text>
+  <text x="38" y="174" class="sans title in d3">fuelled by <tspan class="acc">code.</tspan></text>
+  <text x="40" y="216" class="sans sub in d4">BScHons Computer Science · University of Pretoria</text>
+  <text x="40" y="238" class="sans sub in d4">ML research, full-stack apps, and a homelab that's always on.</text>
+
+  <!-- right: terminal window -->
+  <g transform="translate(560 40)">
+    <rect x="-4" y="-4" width="308" height="252" rx="8" fill="none" stroke="#c8f04a" stroke-opacity=".35" filter="url(#blur)" class="glow"/>
+    <rect x=".5" y=".5" width="299" height="243" rx="6" fill="#0d0e0a" stroke="#c8f04a" stroke-opacity=".7"/>
+    <line x1="1" y1="30" x2="299" y2="30" stroke="#c8f04a" stroke-opacity=".25"/>
+    <rect x="12" y="11" width="8" height="8" fill="#c8f04a"/>
+    <text x="28" y="19" class="mono win-t">NEVAN.exe</text>
+    <rect x="252" y="9" width="14" height="13" rx="2" fill="none" stroke="#c8f04a" stroke-opacity=".6"/>
+    <rect x="272" y="9" width="14" height="13" rx="2" fill="none" stroke="#c8f04a" stroke-opacity=".6"/>
+    <path d="M276 13l6 5M282 13l-6 5" stroke="#c8f04a" stroke-width="1.2"/>
+    <path d="M256 18h6" stroke="#c8f04a" stroke-width="1.2"/>
+
+    <text x="14" y="54" class="mono p in d5"><tspan class="acc">›</tspan> whoami</text>
+    <g class="in d6">
+      <rect x="14.5" y="64.5" width="271" height="78" rx="2" fill="none" stroke="#3a3f2a" stroke-dasharray="3 3"/>
+      <text x="26" y="88" class="sans nm">Nevan Rahman</text>
+      <text x="26" y="108" class="mono k">researching misinformation detection</text>
+      <text x="26" y="126" class="mono k">Pretoria, ZA</text>
+    </g>
+    <text x="14" y="166" class="mono p in d7"><tspan class="acc">›</tspan> status</text>
+    <g class="in d8 mono">
+      <rect x="14.5" y="176.5" width="82" height="20" rx="10" fill="none" stroke="#2e2e34"/>
+      <circle cx="25" cy="186.5" r="2.5" fill="#62626b"/><text x="32" y="190" class="chip">researching</text>
+      <rect x="102.5" y="176.5" width="70" height="20" rx="10" fill="none" stroke="#2e2e34"/>
+      <circle cx="113" cy="186.5" r="2.5" fill="#62626b"/><text x="120" y="190" class="chip">building</text>
+      <rect x="178.5" y="176.5" width="107" height="20" rx="10" fill="#c8f04a" fill-opacity=".08" stroke="#c8f04a" stroke-opacity=".7"/>
+      <circle cx="189" cy="186.5" r="2.5" fill="#c8f04a" class="glow"/><text x="196" y="190" class="chip-on">open to work</text>
+    </g>
+    <text x="14" y="226" class="mono p in d8"><tspan class="acc">›</tspan> now</text>
+    <rect x="56" y="216" width="7" height="12" fill="#c8f04a" class="cursor"/>
+  </g>
+</svg>
