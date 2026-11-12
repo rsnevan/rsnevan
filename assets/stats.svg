@@ -10,30 +10,30 @@
 </style>
 <rect x="0.5" y="0.5" width="899" height="209" rx="10" fill="#111113" stroke="#222226"/>
 <text x="32" y="40" class="h">GITHUB STATS</text>
-<g class="fade" style="animation-delay:0.00s"><text x="32" y="118" class="n">302</text><text x="32" y="142" class="l">CONTRIBUTIONS</text></g>
+<g class="fade" style="animation-delay:0.00s"><text x="32" y="118" class="n">311</text><text x="32" y="142" class="l">CONTRIBUTIONS</text></g>
 <g class="fade" style="animation-delay:0.12s"><text x="168" y="118" class="n">1</text><text x="168" y="142" class="l">STARS</text></g>
-<g class="fade" style="animation-delay:0.24s"><text x="268" y="118" class="n">6</text><text x="268" y="142" class="l">REPOS</text></g>
+<g class="fade" style="animation-delay:0.24s"><text x="268" y="118" class="n">7</text><text x="268" y="142" class="l">REPOS</text></g>
 <g class="fade" style="animation-delay:0.36s"><text x="360" y="118" class="n">2</text><text x="360" y="142" class="l">FOLLOWERS</text></g>
 <line x1="452" y1="32" x2="452" y2="178" stroke="#222226"/>
 <text x="484" y="40" class="h">TOP LANGUAGES</text>
 <text x="484" y="74" class="k">JavaScript</text>
 <rect x="590" y="70" width="260" height="2" fill="#222226"/>
 <rect class="bar" style="animation-delay:0.30s" x="590" y="70" width="260.0" height="2" fill="#c8f04a"/>
-<text x="868" y="74" class="k" text-anchor="end">2</text>
+<text x="868" y="74" class="k" text-anchor="end">3</text>
 <text x="484" y="100" class="k">C#</text>
 <rect x="590" y="96" width="260" height="2" fill="#222226"/>
-<rect class="bar" style="animation-delay:0.40s" x="590" y="96" width="260.0" height="2" fill="#4af0c8"/>
+<rect class="bar" style="animation-delay:0.40s" x="590" y="96" width="173.3" height="2" fill="#4af0c8"/>
 <text x="868" y="100" class="k" text-anchor="end">2</text>
 <text x="484" y="126" class="k">Python</text>
 <rect x="590" y="122" width="260" height="2" fill="#222226"/>
-<rect class="bar" style="animation-delay:0.50s" x="590" y="122" width="260.0" height="2" fill="#f04a8c"/>
+<rect class="bar" style="animation-delay:0.50s" x="590" y="122" width="173.3" height="2" fill="#f04a8c"/>
 <text x="868" y="126" class="k" text-anchor="end">2</text>
-<text x="484" y="152" class="k">PHP</text>
+<text x="484" y="152" class="k">TypeScript</text>
 <rect x="590" y="148" width="260" height="2" fill="#222226"/>
-<rect class="bar" style="animation-delay:0.60s" x="590" y="148" width="130.0" height="2" fill="#7a7a82"/>
-<text x="868" y="152" class="k" text-anchor="end">1</text>
-<text x="484" y="178" class="k">Kotlin</text>
+<rect class="bar" style="animation-delay:0.60s" x="590" y="148" width="173.3" height="2" fill="#7a7a82"/>
+<text x="868" y="152" class="k" text-anchor="end">2</text>
+<text x="484" y="178" class="k">PHP</text>
 <rect x="590" y="174" width="260" height="2" fill="#222226"/>
-<rect class="bar" style="animation-delay:0.70s" x="590" y="174" width="130.0" height="2" fill="#62626b"/>
+<rect class="bar" style="animation-delay:0.70s" x="590" y="174" width="86.7" height="2" fill="#62626b"/>
 <text x="868" y="178" class="k" text-anchor="end">1</text>
 </svg>
